@@ -1,0 +1,6 @@
+@Lowes.CustomerManagement_HostAddress = http://localhost:5078
+
+GET {{Lowes.CustomerManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
